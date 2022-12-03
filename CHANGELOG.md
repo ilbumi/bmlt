@@ -2,6 +2,10 @@
 
 <!--next-version-placeholder-->
 
+## v0.0.2 (2022-12-03)
+### Fix
+* Removed codecov token ([`ec80852`](https://github.com/ilbumi/bmlt/commit/ec808524e611f3a5c93460a019f4f6c603b74168))
+
 ## v0.0.1 (2022-12-03)
 ### Fix
 * Version numbering conflict ([`559553e`](https://github.com/ilbumi/bmlt/commit/559553ec390fdb9b6127eabc1753e194d1eca9a5))

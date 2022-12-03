@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "bmlt"
-version = "0.0.1"
+version = "0.0.2"
 description = "Some useful machine learning tools"
 authors = ["Ilya Bushmakin <im.bushmakin@gmail.com>"]
 license = "MIT"
