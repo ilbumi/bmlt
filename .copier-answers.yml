@@ -1,0 +1,19 @@
+# Changes here will be overwritten by Copier
+_commit: 05e6006
+_src_path: gh:browniebroke/pypackage-template
+add_me_as_contributor: true
+copyright_year: '2022'
+documentation: true
+email: im.bushmakin@gmail.com
+full_name: Ilya Bushmakin
+github_username: ilbumi
+initial_commit: true
+open_source_license: MIT
+package_name: bmlt
+project_name: Basic Machine Learning Tools
+project_short_description: Some useful machine learning tools
+project_slug: bmlt
+run_poetry_install: true
+setup_github: true
+setup_pre_commit: true
+
