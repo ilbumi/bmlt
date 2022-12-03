@@ -2,6 +2,10 @@
 
 <!--next-version-placeholder-->
 
+## v0.1.0 (2022-12-03)
+### Feature
+* **common,tabular:** Added lmdb data tools ([`a90f0fe`](https://github.com/ilbumi/bmlt/commit/a90f0fe594c688db9e0a69df888bb21693705d42))
+
 ## v0.0.2 (2022-12-03)
 ### Fix
 * Removed codecov token ([`ec80852`](https://github.com/ilbumi/bmlt/commit/ec808524e611f3a5c93460a019f4f6c603b74168))
