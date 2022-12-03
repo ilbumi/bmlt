@@ -24,10 +24,15 @@ packages = [
 
 [tool.poetry.dependencies]
 python = "^3.7"
+lmdbm = "^0.0.5"
+torch = "^1.13.0"
 
 [tool.poetry.group.dev.dependencies]
 pytest = "^7.0"
 pytest-cov = "^3.0"
+black = "^22.10.0"
+isort = "^5.10.1"
+mypy = "^0.991"
 
 [tool.poetry.group.docs]
 optional = true
