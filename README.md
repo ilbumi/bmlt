@@ -44,8 +44,19 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 
 <!-- prettier-ignore-start -->
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
-<!-- markdownlint-enable -->
+<table>
+  <tbody>
+    <tr>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/ilbumi"><img src="https://avatars.githubusercontent.com/u/116601147?v=4?s=80" width="80px;" alt="Ilya Bushmakin"/><br /><sub><b>Ilya Bushmakin</b></sub></a><br /><a href="https://github.com/ilbumi/bmlt/commits?author=ilbumi" title="Code">💻</a> <a href="#ideas-ilbumi" title="Ideas, Planning, & Feedback">🤔</a> <a href="https://github.com/ilbumi/bmlt/commits?author=ilbumi" title="Documentation">📖</a></td>
+    </tr>
+  </tbody>
+</table>
+
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 <!-- prettier-ignore-end -->
 
